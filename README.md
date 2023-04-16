@@ -1,4 +1,4 @@
-## **Bem-vindos ao meu perfil **👋
+## Bem-vindos ao meu perfil 👋
 
 ### Me chamo Maiala, tenho 28 anos, recém-formada em Licenciatura em computação e estou em busca da minha primeira vaga na área de tecnologia!
 
