@@ -1,16 +1,19 @@
-### Hi there 👋
+## **Bem-vindos ao meu perfil 👋
 
-<!--
-**ma-freitass/ma-freitass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Me chamo Maiala, tenho 28 anos, recém-formada em Licenciatura em computação e em busca da minha primeira vaga na área de tecnologia!
 
-Here are some ideas to get you started:
+<details>
+<summary>Linguagens que tenho conhecimento</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Rank | Languages |
+|-----:|-----------|
+|     1| Javascript|
+|     2| Typescript|
+|     3| React     |
+|     4| Java      |
+|     5| SQL       |
+
+
+</details>
+
+
