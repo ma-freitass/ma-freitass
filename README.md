@@ -31,7 +31,7 @@ Linguagens que domino
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username="ma-freitass")](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Minhas redes sociais
 
