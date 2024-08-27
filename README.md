@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Seja bem vindo!
-<img src="IMG_8967.JPEG" alt="Foto de perfil" width="50px" heigth="50px" padding="20px">
+<img src="IMG_8967.JPEG" alt="Foto de perfil" width="120px" heigth="120px" border-radius="50px">
 
 
 Me chamo Maiala, e sou desenvolvedora Front-end.
