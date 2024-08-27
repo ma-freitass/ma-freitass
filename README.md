@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Seja bem vindo!
-![Imagem de perfil](../IMG_8967.JPEG)
+![Imagem de perfil](IMG_8967.JPEG)
 
 
 Me chamo Maiala, e sou desenvolvedora Front-end.
