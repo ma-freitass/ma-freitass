@@ -1,19 +1,4 @@
 
-
-<!--
-**ma-freitass/ma-freitass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Seja bem vindo!
 <img src="IMG_8967.JPEG" alt="Foto de perfil" width="250px" heigth="250px">
 
@@ -45,6 +30,8 @@ Linguagens que domino
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ma-freitass)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Minhas redes sociais
 
