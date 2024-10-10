@@ -38,7 +38,8 @@ Linguagens que domino
 ### Minhas redes sociais
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/maiala-freitas/" target="_blank"/><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"></a>
+  [![LinkedIn](https://link-do-icone-do-linkedin)](https://www.linkedin.com/in/maiala-freitas/)
+  
   <a href="malito:maialarodrigues.mr@gmail.com" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
 </div>
 
