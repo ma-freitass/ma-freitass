@@ -1,6 +1,6 @@
 
 # Seja bem vindo!
-<img src="IMG_8967.JPEG" alt="Foto de perfil" width="250px" heigth="250px"(https://media1.tenor.com/m/6xy_l3FIUIsAAAAC/dustin-stranger-things.gif)>
+<img src="IMG_8967.JPEG" alt="Foto de perfil" width="250px" heigth="250px" url(https://media1.tenor.com/m/6xy_l3FIUIsAAAAC/dustin-stranger-things.gif)>
 
 
 Me chamo Maiala, e sou desenvolvedora Front-end.
