@@ -1,6 +1,7 @@
 
 # Seja bem vindo!
-![Dustin Stranger Things](https://media1.tenor.com/m/6xy_l3FIUIsAAAAC/dustin-stranger-things.gif)
+<img src="https://media1.tenor.com/m/6xy_l3FIUIsAAAAC/dustin-stranger-things.gif" alt="Descrição da imagem" width="300">
+
 
 
 
